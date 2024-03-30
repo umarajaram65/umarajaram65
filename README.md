@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @umarajaram65
+- 👋 Hi, I’m @umamaheswari
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning DSA
   
