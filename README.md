@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umamaheswari
-- 👀 I’m interested in software developer
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning frameworks
   
 
 <!---
